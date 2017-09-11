@@ -1,3 +1,3 @@
-###USING GRAPHVIZ TO CREATE BRAIN CONNECTIVITY GRAPHS
+### Creating Neural Connectiviy Graphs with Graphviz
 
-1) 
+- contains sample dataset 
