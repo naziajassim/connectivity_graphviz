@@ -1,0 +1,20 @@
+graph G{
+	graph [
+               bb="-1.1,-1.1,1.1,1.1",
+               center = 1,
+               size="10,10",
+               dpi = 200, 
+               ratio = 1,
+	       outputorder=edgesfirst,
+              ];
+
+node[style=filled, fontsize=8, width=0.3, height=0.3, fixedsize="TRUE", shape=circle];
+
+1 [label="VIS", color="darkolivegreen4", pos="-0.342,0.940!" ]; 
+2 [label="PN" , color="darkolivegreen4", pos="0.342,0.940!"  ];
+6 [label="FPN", color="darkolivegreen4", pos="0.906,0.423!"  ];
+4 [label="SN" , color="darkolivegreen4", pos="0.906,-0.423!" ];
+3 [label="DAN", color="darkolivegreen1", pos= "-0.906,0.423!"];
+5 [label="LIM", color="darkseagreen3",   pos="0,-1!"   ];
+7 [label="DMN", color="darkolivegreen4", pos="-0.906,-0.423!"  ];
+
