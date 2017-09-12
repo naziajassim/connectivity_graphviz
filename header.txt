@@ -14,7 +14,7 @@ node[style=filled, fontsize=8, width=0.3, height=0.3, fixedsize="TRUE", shape=ci
 2 [label="PN" , color="darkolivegreen4", pos="0.342,0.940!"  ];
 6 [label="FPN", color="darkolivegreen4", pos="0.906,0.423!"  ];
 4 [label="SN" , color="darkolivegreen4", pos="0.906,-0.423!" ];
-3 [label="DAN", color="darkolivegreen1", pos= "-0.906,0.423!"];
-5 [label="LIM", color="darkseagreen3",   pos="0,-1!"   ];
+3 [label="DAN", color="darkolivegreen4", pos= "-0.906,0.423!"];
+5 [label="LIM", color="darkolivegreen4", pos="0,-1!"   ];
 7 [label="DMN", color="darkolivegreen4", pos="-0.906,-0.423!"  ];
 
